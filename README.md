@@ -11,4 +11,6 @@ After completing the project, learned I needed to find <br> commands to increase
 
 While I made a copy of Oatmeal Peanut Butter Bars to use as a template for Chunky Guacamole, I am not sure it was that much quicker than when I wrote Ribeye with Bleu Cheese and Mushrooms from scratch.
 
-Of note, there are still some files stating not staged for commit.  Those files were deleted or renamed in the repo, one of them replaced entirely.  I do need to do more reading on git to learn how to handle these types of changes.  
+Of note, there are still some files stating not staged for commit.  Those files were deleted or renamed in the repo, one of them replaced entirely.  I do need to do more reading on git to learn how to handle these types of changes.   
+
+Those files have since been cleared out.  Following the instructions to publish, I noticed in my browser and direct link that the incorrect picture for the oatmeal bars was showing.  The M for modified meant that I never committed the replacement picture.  This allowed me to completely clear my git status command. :)
