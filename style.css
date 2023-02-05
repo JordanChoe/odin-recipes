@@ -3,14 +3,7 @@
 /* planned ideas: adjust images to be same size and smaller on page to reduce the need to scroll.
 
 
-ID Alternatives
-
 */
-
-div.recipe-list {
-    font-size: 18px;
-   
-}
 
 
 .fonts.recipe-list
@@ -27,12 +20,12 @@ background-color: azure;}
 }
 
 .ingred.items {
-    font-size: 18px;
+    font-size: 16px;
     color: brown;
 }
 
 .recipe-picture {
-    width: 200px; 
+    width: 100px; 
     height: auto;
     border-style: solid;
     border-color: burlywood;}
@@ -53,7 +46,7 @@ background-color: azure;}
 
 .recipe-list {
    font-family: Arial, Helvetica, sans-serif;
-   font-size: 24px;
+   font-size: 20px;
 }
 
 .recipe-title,
@@ -68,7 +61,7 @@ background-color: azure;}
 .desc,
 .fonts,
 .recipe-links {
-    background-color: rgb(114, 188, 190);
+    background-color: rgb(110, 183, 185);
 }
 
 
