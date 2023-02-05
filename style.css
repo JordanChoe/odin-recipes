@@ -15,7 +15,7 @@ div.recipe-list {
 
 .fonts.recipe-list
 {
-background-color:lightblue;}
+background-color: azure;}
 
 
 .desc,
@@ -53,7 +53,7 @@ background-color:lightblue;}
 
 .recipe-list {
    font-family: Arial, Helvetica, sans-serif;
-   font-size: 16px;
+   font-size: 24px;
 }
 
 .recipe-title,
@@ -66,8 +66,9 @@ background-color:lightblue;}
 }
 
 .desc,
-.fonts {
-    background-color: cadetblue;
+.fonts,
+.recipe-links {
+    background-color: rgb(114, 188, 190);
 }
 
 
