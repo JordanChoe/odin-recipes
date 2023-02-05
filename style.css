@@ -13,7 +13,6 @@ add div to index
 class recipe-picture (all pages)
 class recipe-title (all pages)
 class optional
-class serve
 ID Alternatives
 
 */
@@ -26,16 +25,20 @@ ID Alternatives
     width: 200px; 
     height: auto;}
 
+.go-home,
+#guac-recipe,
+#steak-recipe {
+    color:black; 
+    background-color: rgb(199, 212, 224);
+}
 .serve,
 #guac-recipe,
 #steak-recipe
- {font-weight: bold;}
+ {font-weight: bold;
+    color: darkgreen;}
 
-.go-home {
-    color:black; 
-    background-color: rgb(162, 176, 190);
-}
 
 .recipe-title {
     font-style: oblique ;
+    font-size: 40px;
 }
