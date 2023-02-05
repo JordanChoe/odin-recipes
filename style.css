@@ -14,4 +14,15 @@ class recipe-picture (all pages)
 class oat, guacamole, steak (for each recipe)
 class optional
 class serve
+ID Alternatives
+class go-home links to index
+ID guac-recipe, steak-recipe
 */
+
+.fonts {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipe-picture {
+    width: 200px; 
+    height: auto;}
