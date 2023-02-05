@@ -1,33 +1,34 @@
 /* odin-recipes css additions */
 
 /* planned ideas: adjust images to be same size and smaller on page to reduce the need to scroll.
-heading description class - desc
-ingredients and instructions multiple classes
-classes: ingred, instruct on h3
-ul class ingred items (recipe pages)
-ol class items ordered (recipe pages)
 
-class recipe-list (index)
-add div to index 
 
-class optional
 ID Alternatives
 
 */
 
-.div.recipe-list {
+div.recipe-list {
     font-size: 18px;
-    background-color: lightseagreen;
-}
-.div {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color:lightseagreen;
+   
 }
 
+
+.fonts.recipe-list
+{
+background-color:lightblue;}
 
 #Odin
 {
     background-color:antiquewhite;
+    
+}
+
+.desc,
+.items,
+.optional,
+#alternatives
+{
+    color: darkslateblue;
 }
 
 .ingred.items {
@@ -39,9 +40,10 @@ ID Alternatives
     width: 200px; 
     height: auto;}
 
-.go-home,
+.fonts.go-home,
 #guac-recipe,
-#steak-recipe {
+#steak-recipe,
+#alternatives {
     color:black; 
     background-color: rgb(199, 212, 224);
 }
@@ -65,12 +67,8 @@ ID Alternatives
 }
 
 .desc,
-.items {
-    color: darkslateblue;
+.fonts {
+    background-color: cadetblue;
 }
 
-.desc,
-.fonts
- {
-    background-color: antiquewhite;
-}
+
