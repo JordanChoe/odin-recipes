@@ -17,11 +17,6 @@ div.recipe-list {
 {
 background-color:lightblue;}
 
-#Odin
-{
-    background-color:antiquewhite;
-    
-}
 
 .desc,
 .items,
@@ -38,7 +33,9 @@ background-color:lightblue;}
 
 .recipe-picture {
     width: 200px; 
-    height: auto;}
+    height: auto;
+    border-style: solid;
+    border-color: burlywood;}
 
 .fonts.go-home,
 #guac-recipe,
@@ -59,11 +56,13 @@ background-color:lightblue;}
    font-size: 16px;
 }
 
-.recipe-title {
+.recipe-title,
+#Odin {
     font-style: oblique;
     color: rgb(136, 4, 4);
     font-weight: 700;
     font-size: 32px;
+    background-color: bisque;
 }
 
 .desc,
