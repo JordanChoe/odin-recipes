@@ -10,15 +10,29 @@ ol class items ordered (recipe pages)
 class recipe-list (index)
 add div to index 
 
-class recipe-picture (all pages)
-class recipe-title (all pages)
 class optional
 ID Alternatives
 
 */
 
-.fonts {
+.div.recipe-list {
+    font-size: 18px;
+    background-color: lightseagreen;
+}
+.div {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:lightseagreen;
+}
+
+
+#Odin
+{
+    background-color:antiquewhite;
+}
+
+.ingred.items {
+    font-size: 18px;
+    color: brown;
 }
 
 .recipe-picture {
@@ -38,7 +52,25 @@ ID Alternatives
     color: darkgreen;}
 
 
+.recipe-list {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 16px;
+}
+
 .recipe-title {
-    font-style: oblique ;
-    font-size: 40px;
+    font-style: oblique;
+    color: rgb(136, 4, 4);
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.desc,
+.items {
+    color: darkslateblue;
+}
+
+.desc,
+.fonts
+ {
+    background-color: antiquewhite;
 }
