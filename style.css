@@ -3,7 +3,7 @@
 /* planned ideas: adjust images to be same size and smaller on page to reduce the need to scroll.
 heading description class - desc
 ingredients and instructions multiple classes
-classes: fonts, ingred, instruct on h3
+classes: ingred, instruct on h3
 ul class ingred items (recipe pages)
 ol class items ordered (recipe pages)
 
@@ -15,8 +15,6 @@ class recipe-title (all pages)
 class optional
 class serve
 ID Alternatives
-class go-home (links to index)
-ID guac-recipe, steak-recipe
 
 */
 
