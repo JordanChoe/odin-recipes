@@ -11,12 +11,13 @@ class recipe-list (index)
 add div to index 
 
 class recipe-picture (all pages)
-class oat, guacamole, steak (for each recipe)
+class recipe-title (all pages)
 class optional
 class serve
 ID Alternatives
-class go-home links to index
+class go-home (links to index)
 ID guac-recipe, steak-recipe
+
 */
 
 .fonts {
@@ -26,3 +27,17 @@ ID guac-recipe, steak-recipe
 .recipe-picture {
     width: 200px; 
     height: auto;}
+
+.serve,
+#guac-recipe,
+#steak-recipe
+ {font-weight: bold;}
+
+.go-home {
+    color:black; 
+    background-color: rgb(162, 176, 190);
+}
+
+.recipe-title {
+    font-style: oblique ;
+}
